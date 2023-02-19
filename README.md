@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Yunus Emre.
-- 👀 I’m a frontend development. 
+- 👀 I’m a frontend developer. 
 - 🌱 I’m currently coding with React.js and Angular.js.
 - 📫 How to reach me -> https://www.linkedin.com/in/yunusemreaksu/
