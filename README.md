@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Yunus Emre.
-- 👀 I’m a frontend developer. 
+- 👀 I’m a software developer. 
 - 📫 How to reach me -> https://www.linkedin.com/in/yunusemreaksu/
